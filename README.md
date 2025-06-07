@@ -11,7 +11,7 @@
 
 # Test user
 You can either sign up or use the testing user:
-- test@example
+- test@example.com
 - password123
 
 # Notes
